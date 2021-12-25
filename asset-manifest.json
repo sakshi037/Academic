@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Academic/static/css/main.26892e17.chunk.css",
+    "main.js": "/Academic/static/js/main.791f6ad4.chunk.js",
+    "main.js.map": "/Academic/static/js/main.791f6ad4.chunk.js.map",
+    "runtime-main.js": "/Academic/static/js/runtime-main.b7f33294.js",
+    "runtime-main.js.map": "/Academic/static/js/runtime-main.b7f33294.js.map",
+    "static/js/2.9f3937f5.chunk.js": "/Academic/static/js/2.9f3937f5.chunk.js",
+    "static/js/2.9f3937f5.chunk.js.map": "/Academic/static/js/2.9f3937f5.chunk.js.map",
+    "index.html": "/Academic/index.html",
+    "service-worker.js": "/Academic/service-worker.js",
+    "service-worker.js.map": "/Academic/service-worker.js.map",
+    "static/css/main.26892e17.chunk.css.map": "/Academic/static/css/main.26892e17.chunk.css.map",
+    "static/js/2.9f3937f5.chunk.js.LICENSE.txt": "/Academic/static/js/2.9f3937f5.chunk.js.LICENSE.txt",
+    "static/js/index.worker.83f535f1.worker.js": "/Academic/static/js/index.worker.83f535f1.worker.js",
+    "static/js/index.worker.83f535f1.worker.js.LICENSE.txt": "/Academic/static/js/index.worker.83f535f1.worker.js.LICENSE.txt",
+    "static/js/index.worker.83f535f1.worker.js.map": "/Academic/static/js/index.worker.83f535f1.worker.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f33294.js",
+    "static/js/2.9f3937f5.chunk.js",
+    "static/css/main.26892e17.chunk.css",
+    "static/js/main.791f6ad4.chunk.js"
+  ]
+}
