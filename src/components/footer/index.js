@@ -6,8 +6,9 @@ const Footer = () => {
                 Jatin
             </a>
             <br></br>
+            Contribution by {` `}
             <a className="nav-link" href="https://github.com/sakshi037">
-                Contribution by Sakshi Shankar
+                Sakshi Shankar
             </a>
         </div>
     )

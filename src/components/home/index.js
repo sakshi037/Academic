@@ -269,7 +269,7 @@ const Home = ({ darkMode, setDarkMode, update }) => {
                         <h2 className={classes.beg}> Hello {name}</h2>
                         <p>
                             This is a Web worker - Reactjs based PWA where
-                            anyone from the batch 2018-22 can have a quick
+                            anyone from the batch 2019-23 can have a quick
                             reference of their academic performance.
                             <br />
                             It will work offline too and is installable.
