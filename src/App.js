@@ -39,7 +39,7 @@ const App = () => {
                     />
                 </Router>
             </div>
-            <ParticlesBg type="cobweb" num="30" color="#a6a4ad" />
+            <ParticlesBg type="square" num="20" color="#a6a4ad" />
             <Footer />
         </div>
     )
