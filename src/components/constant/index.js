@@ -9,7 +9,7 @@ export const BRANCHES = [
     },
     {
         value: 'CS(AIML)',
-        label: 'CS(AI-ML)',
+        label: 'CS(AIML)',
     },
     {
         value: 'ECE',
