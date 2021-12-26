@@ -8,7 +8,11 @@ export const BRANCHES = [
         label: 'CSE',
     },
     {
-        value: 'EC',
+        value: 'CS(AIML)',
+        label: 'CS(AI-ML)',
+    },
+    {
+        value: 'ECE',
         label: 'ECE',
     },
     {
@@ -24,16 +28,17 @@ export const BRANCHES = [
         label: 'ME',
     },
     {
+        value: 'ME(MANUF.)',
+        label: 'ME(MANUF.)',
+    },
+    {
         value: 'BT',
         label: 'BT',
     },
 ]
 
 export const EXCELFILES = [
-    'dat/B. TECH. I SEM DEC 19.xlsx',
-    'dat/B. TECH. II SEM DECEMBER 2020(COVID).xlsx',
-    'dat/B. TECH. III SEM DECEMBER 2020(COVID 19).xlsx',
-    'dat/B. TECH. IV SEM JUNE 2021(COVID 19).xlsx'
-    
+    'dat/B. TECH. I SEM DEC 2020(COVID 19).xlsx',
+    'dat/B. TECH. II SEM JUNE 2021 (COVID 19).xlsx'
 
 ]
