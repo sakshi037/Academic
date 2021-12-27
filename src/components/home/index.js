@@ -301,23 +301,17 @@ const Home = ({ darkMode, setDarkMode, update }) => {
                             {branch !== 'Choose' && (
                                 <TextField
                                     style={{ marginTop: '10px' }}
-                                    type={branch === 'CE' ? 'number' : 'text'}
+                                    type='text'
                                     required
                                     fullWidth
                                     name="name"
                                     inputProps={
-                                        branch === 'CE'
-                                            ? { min: '180500' }
-                                            : { minLength: '2' }
+                                         { minLength: '2' }
                                     }
-                                    label={
-                                        branch === 'CE' ? 'College-ID' : 'Name'
-                                    }
-                                    helperText={
-                                        branch === 'CE'
-                                            ? 'Please enter your College-ID'
-                                            : 'Please enter your full name'
-                                    }
+                                    label='Name'
+                                
+                                    helperText='Please enter your full name'
+                                    
                                     onInput={handleNaam}
                                 />
                             )}
@@ -356,7 +350,7 @@ const Home = ({ darkMode, setDarkMode, update }) => {
                 />
             )}
             <a
-                href="https://forms.gle/mptg9KrGss3rgtPp7"
+                href="https://forms.gle/yEwqbFEX2CzdER3g7"
                 className="anomaly"
                 target="_blank"
             >

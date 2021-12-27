@@ -6,7 +6,7 @@ const Footer = () => {
                 Jatin
             </a>
             <br></br>
-            Contribution by {` `}
+            Contributed by {` `}
             <a className="nav-link" href="https://github.com/sakshi037">
                 Sakshi Shankar
             </a>

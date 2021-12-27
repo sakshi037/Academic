@@ -29,13 +29,15 @@ export const BRANCHES = [
     },
     {
         value: 'ME(MANUF.)',
-        label: 'ME(MANUF.)',
+        label: 'ME(MANUF)',
     },
+    
     {
         value: 'BT',
         label: 'BT',
     },
 ]
+
 
 export const EXCELFILES = [
     'dat/B. TECH. I SEM DEC 2020(COVID 19).xlsx',
